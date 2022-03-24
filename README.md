@@ -1,1 +1,1 @@
-# checkpoint_application
+# checkpoint-repo
